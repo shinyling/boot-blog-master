@@ -23,3 +23,7 @@ spring:
     maxPoolPreparedStatementPerConnectionSize : 20
     connectionProperties : druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
     useGlobalDataSourceStat : true
+greeting:
+  saying: Hola Spring Boot
+  backendServiceHost: localhost
+  backendServicePort: 8080

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/boot-blog-client/boot-blog-client.iml" filepath="$PROJECT_DIR$/boot-blog-client/boot-blog-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-blog-master.iml" filepath="$PROJECT_DIR$/boot-blog-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot-blog-server/boot-blog-server.iml" filepath="$PROJECT_DIR$/boot-blog-server/boot-blog-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hola-dropwizard/hola-dropwizard.iml" filepath="$PROJECT_DIR$/hola-dropwizard/hola-dropwizard.iml" />
     </modules>
   </component>
 </project>
